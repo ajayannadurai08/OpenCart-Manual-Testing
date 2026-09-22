@@ -1,2 +1,1 @@
-# OpenCart-Manual-Testing
-Manual testing project for OpenCart e-commerce application
+E-commerce application manual testing project covering test case design, functional testing, regression testing and defect reporting.
